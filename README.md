@@ -21,7 +21,7 @@ Make something of your own on the basis of scientific development, taking forest
 ## Author
 Fu Xu*, Sheng Wang, Runhao Tian, Huan Li, Lei Liu (Sorted by contribution).
 + Fu Xu, Project Leader, Vice Dean, School of Information, Beijing Forestry University. 
-+ Lei Liu, PhD student, School of Information, Beijing Forestry University.
++ Lei Liu, Project Organizer, PhD student, School of Information, Beijing Forestry University.
 + Sheng Wang, Project Organizer, PhD student, School of Information, Beijing Forestry University.
 + Runhao Tian, Master's Student, School of Information, Beijing Forestry University.
 + Huan Li, Master's Student, School of Information, Beijing Forestry University.
