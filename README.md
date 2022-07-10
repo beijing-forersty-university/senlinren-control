@@ -4,7 +4,7 @@ China's first generation , the world's next generation of open source intelligen
 ![Our Logo](https://github.com/beijing-forersty-university/senlinren-control/blob/main/logo/favicon.png?raw=true)
 
 ## Project Intention
-Make something of your own on the basis of scientific development, taking forestry applications as an example, but without prejudice to their value in other fields. Our design philosophy is to do what needs to be done, and all is replaceable, including the kernel. In Chinese, it means: 专业的事情交给专业的人来做，没有什么是不可替代的.
+Make something of your own on the basis of scientific development. Taking forestry applications as an example, but without prejudice to their value in other fields. Our design philosophy is to do what needs to be done, and all is replaceable, including the kernel. In Chinese, it means: 专业的事情交给专业的人来做，没有什么是不可替代的.
 
 ## Main Functions
 + TODO  -- To be supplemented
