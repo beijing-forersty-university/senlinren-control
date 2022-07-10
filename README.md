@@ -1,5 +1,6 @@
 # senlinren-control
 China's first generation , the world's next generation of open source intelligent Web Framework.
+\!\[markdown picture](./logo/favicon.png)
 
 ## Project Intention
 Make something of your own on the basis of scientific development, taking forestry applications as an example, but without prejudice to their value in other fields..
