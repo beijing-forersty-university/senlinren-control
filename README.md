@@ -1,7 +1,7 @@
 # senlinren-control
 China's first generation , the world's next generation of open source intelligent Web Framework.
 
-\!\[Our Logo](https://github.com/beijing-forersty-university/senlinren-control/blob/main/logo/favicon.png?raw=true)
+![Our Logo](https://github.com/beijing-forersty-university/senlinren-control/blob/main/logo/favicon.png?raw=true)
 
 ## Project Intention
 Make something of your own on the basis of scientific development, taking forestry applications as an example, but without prejudice to their value in other fields..
