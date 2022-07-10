@@ -30,3 +30,6 @@ Fu Xu*, Sheng Wang, Runhao Tian, Huan Li, Lei Liu (Sorted by contribution).
 
 ## Contribution
 Thanks to @geektutu for introducing the framework. You can visit the URL https://geektutu.com/ to learn the basic of the framework
+
+## Pull Request
+If you would like to participate in this project, we would be happy to return a percentage of the net profit to you. Please submit a PR and we will look at it as soon as possible.
