@@ -1,10 +1,10 @@
 # senlinren-control
-China's first generation , the world's next generation of open source intelligent Web Framework.
+China's first generation , the world's next generation of open source intelligent Web Framework. 
 
 ![Our Logo](https://github.com/beijing-forersty-university/senlinren-control/blob/main/logo/favicon.png?raw=true)
 
 ## Project Intention
-Make something of your own on the basis of scientific development, taking forestry applications as an example, but without prejudice to their value in other fields..
+Make something of your own on the basis of scientific development. Taking forestry applications as an example, but without prejudice to their value in other fields. Our design philosophy is to do what needs to be done, and all is replaceable, including the kernel. In Chinese, it means: 专业的事情交给专业的人来做，没有什么是不可替代的.
 
 ## Main Functions
 + TODO  -- To be supplemented
@@ -30,3 +30,6 @@ Fu Xu*, Sheng Wang, Runhao Tian, Huan Li, Lei Liu (Sorted by contribution).
 
 ## Contribution
 Thanks to @geektutu for introducing the framework. You can visit the URL https://geektutu.com/ to learn the basic of the framework
+
+## Pull Request
+If you would like to participate in this project, we would be happy to return a percentage of the net profit to you if the project generates revenue. Please submit a PR and we will look at it as soon as possible.
